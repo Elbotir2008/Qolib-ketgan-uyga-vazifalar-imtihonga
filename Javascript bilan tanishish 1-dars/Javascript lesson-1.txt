@@ -1,0 +1,9 @@
+Javascrpt - bu frontdend ga kiradi va haqiqiy til hisoblanadi.
+Bu tilda har xil logikali amalar bajarsa boladi. Masalan matematikaga oid misollar. a + b, a - b, a / b, a * b, a % b;
+Yana haqiqiy tillarga c++, c#, java, PHP, Kotlin, Pyhton, Typescript, nodeJs, Go, Ruby, Swift va hokazo. oshida Mocha keyin livescript keyin javascript bo'lgan. Javascriptni Micrasoft companysi tomonidan ishlab chiqarilgan. Javascriptni 2 ta versiyasi bor. Netscape Navigator JavaScript va Internet Explorer JavaScript. Javascript eslardan tashkil topadi yani versilardan 
+1 - The Original JavaScript ES1 ES2 ES3 (1997-1999)
+2 - The First Main Revision ES5 (2009)
+3 - The Second Revision ES6 (2015)
+4 - Yearly Additions (2016, 2017, 2018, 2019, 2020)
+Javascript frontend bo'yicha ham backend bo'yicha ham ishlatiladi. 
+Masalan sylarga harakat, eventlar, masala-misollar, algaritmlar, APIlar, serverdan olib kelish va hokazo.
